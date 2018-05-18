@@ -1,0 +1,7 @@
+# Terraform gubbins
+.terraform
+terraform.tfstate
+terraform.tfstate.backup
+
+# Secrets directory
+secrets
